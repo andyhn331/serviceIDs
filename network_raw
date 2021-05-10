@@ -1,0 +1,1 @@
+localPort:*21* OR localPort:*22* OR localPort:*23* OR localPort:*25* OR localPort:*53* OR localPort:*443* OR localPort:*110* OR localPort:*135* OR localPort:*137* OR localPort:*138* OR localPort:*139* OR localPort:*1433* OR localPort:*1434* OR localPort:*1521* OR localPort:*80* OR localPort:*389* 
